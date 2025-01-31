@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="682d7697-dc6c-4549-98f5-21147c2e3180" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unknown/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unknown/MusicCatalogue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unknown/MusicCatalogueFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unknown/MusicEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unknown/ViewCatalogueDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Unknown/MusicCatalogueFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Unknown/MusicCatalogueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Unknown/MusicEntryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Unknown/ViewCatalogueDialogTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/Unknown/MusicCatalogueTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2sNyp5Nya5ObDMrFOeCekq6EgR4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.MainTest.executor": "Run",
+    "JUnit.MusicCatalogueFrameTest.executor": "Run",
+    "JUnit.MusicCatalogueTest.executor": "Run",
+    "JUnit.ViewCatalogueDialogTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.MusicCatalogueFrameTest.executor": "Run",
+    "TestNG.MusicCatalogueFrameTest.testAddEntry.executor": "Run",
+    "TestNG.MusicCatalogueFrameTest.testExitButtonClosesApplication.executor": "Run",
+    "TestNG.MusicCatalogueFrameTest.testSubmitButtonAddsEntry.executor": "Run",
+    "TestNG.MusicCatalogueFrameTest.testViewCatalogueButton.executor": "Run",
+    "TestNG.MusicCatalogueFrameTest.testViewCatalogueButtonOpensDialog.executor": "Run",
+    "TestNG.MusicCatalogueTest.executor": "Run",
+    "TestNG.MusicCatalogueTest.testAddEntry.executor": "Run",
+    "TestNG.MusicEntryTest.executor": "Run",
+    "TestNG.ViewCatalogueDialogTest.executor": "Run",
+    "TestNG.ViewCatalogueDialogTest.testCatalogueDisplay.executor": "Run",
+    "TestNG.ViewCatalogueDialogTest.testDialogInitialization.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP Elitebook Core-i7/IdeaProjects/MyMusicApp/src/main/java/Unknown",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP Elitebook Core-i7\IdeaProjects\MyMusicApp\src\main\java\Unknown" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Unknown" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MusicCatalogueFrameTest.testViewCatalogueButton">
+    <configuration name="MusicCatalogueFrameTest.testAddEntry" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyMusicApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unknown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Unknown" />
+      <option name="MAIN_CLASS_NAME" value="Unknown.MusicCatalogueFrameTest" />
+      <option name="METHOD_NAME" value="testAddEntry" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicCatalogueFrameTest.testViewCatalogueButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyMusicApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unknown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Unknown" />
+      <option name="MAIN_CLASS_NAME" value="Unknown.MusicCatalogueFrameTest" />
+      <option name="METHOD_NAME" value="testViewCatalogueButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicCatalogueTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyMusicApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unknown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Unknown" />
+      <option name="MAIN_CLASS_NAME" value="Unknown.MusicCatalogueTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicCatalogueTest.testAddEntry" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyMusicApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unknown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Unknown" />
+      <option name="MAIN_CLASS_NAME" value="Unknown.MusicCatalogueTest" />
+      <option name="METHOD_NAME" value="testAddEntry" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewCatalogueDialogTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyMusicApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unknown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Unknown" />
+      <option name="MAIN_CLASS_NAME" value="Unknown.ViewCatalogueDialogTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MusicCatalogueFrameTest.testViewCatalogueButton" />
+        <item itemvalue="TestNG.MusicCatalogueFrameTest.testAddEntry" />
+        <item itemvalue="TestNG.MusicCatalogueTest" />
+        <item itemvalue="TestNG.ViewCatalogueDialogTest" />
+        <item itemvalue="TestNG.MusicCatalogueTest.testAddEntry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="682d7697-dc6c-4549-98f5-21147c2e3180" name="Changes" comment="" />
+      <created>1738310507470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738310507470</updated>
+    </task>
+    <servers />
+  </component>
+</project>
