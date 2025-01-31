@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class MusicCatalogueFrame extends JFrame {
-    private JT'extField artistField;
+    private JTextField artistField;
     private JTextField studioField;
     private JComboBox<String> categoryComboBox;
     private JCheckBox availableCheckBox;
