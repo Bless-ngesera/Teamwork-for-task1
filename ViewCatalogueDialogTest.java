@@ -1,4 +1,4 @@
-
+package Unknown;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -14,8 +14,8 @@ public class ViewCatalogueDialogTest {
     @BeforeMethod
     public void setUp() {
         catalogue = new MusicCatalogue();
-        catalogue.addEntry(new MusicEntry("John Doe", "Studio A", "Pop", true));
-        catalogue.addEntry(new MusicEntry("Jane Smith", "Studio B", "Rock", false));
+        catalogue.addEntry(new MusicEntry("Sunday", "Zana", "Pop", true));
+        catalogue.addEntry(new MusicEntry("Ali", "AllStar", "Rock", false));
 
         SwingUtilities.invokeLater(() -> {
             dialog = new ViewCatalogueDialog(new JFrame(), catalogue);
@@ -30,13 +30,12 @@ public class ViewCatalogueDialogTest {
             assertNotNull(textArea, "TextArea should be present in dialog");
             String textContent = textArea.getText();
 
-            assertTrue(textContent.contains("John Doe"), "Text should contain John Doe");
-            assertTrue(textContent.contains("Studio A"), "Text should contain Studio A");
+            assertTrue(textContent.contains("Sunday"), "Text should contain Sunday");
+            assertTrue(textContent.contains("Zana"), "Text should contain Zana");
             assertTrue(textContent.contains("Rock"), "Text should contain Rock category");
         });
     }
 
-    // Helper method to find JTextArea in the dialog
     private JTextArea findTextArea(Container container) {
         for (Component component : container.getComponents()) {
             if (component instanceof JTextArea) {
