@@ -20,7 +20,7 @@
 * **Exit button:** Helps the user to closes the application.
 
 ## **Support**
-For support email kasibanteabdurahman@gmail.com and cnzab@gmail.com .
+For support email kasibanteabdurahman@gmail.com and cnzabb@gmail.com .
 
 ## **Tech Stack**
 
