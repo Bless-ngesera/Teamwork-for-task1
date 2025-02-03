@@ -7,7 +7,6 @@ import javax.swing.*;
 import java.awt.*;
 
 import static org.testng.Assert.*;
-
 public class MusicCatalogueFrameTest {
     private MusicCatalogueFrame frame;
 
